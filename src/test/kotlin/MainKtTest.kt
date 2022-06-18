@@ -225,7 +225,7 @@ class MainKtTest {
 
         val result = main()
 
-        assertEquals(68000.0, result, 1e-6)
+        assertEquals(680000.0, result, 1e-6)
     }
 
 }
